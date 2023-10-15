@@ -8,4 +8,8 @@ import { Component, Input } from '@angular/core';
 export class MenuComponent {
   @Input() darkMode = true;
 
+
+  
+
+
 }
